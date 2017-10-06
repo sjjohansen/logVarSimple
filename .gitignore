@@ -1,0 +1,12 @@
+target/
+.classpath
+.project
+.wtpmodules
+.DS_Store
+.idea
+*.iml
+logs/
+.settings/
+*.swp
+output/
+output_seq/
